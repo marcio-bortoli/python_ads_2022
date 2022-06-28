@@ -1,0 +1,5 @@
+git init
+git remote add origin "Endereço do meu Repositório no GitHub"
+git add .
+git commit -m "Descrição para o commit"
+git push -f origin master
